@@ -4,4 +4,4 @@ print("My first Git program!!!")
 print("Hello, python!")
 
 # 2026 (c) Me
-# Классный код!
+# Классный код! )))
